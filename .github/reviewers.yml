@@ -4,12 +4,12 @@ reviewers:
   # Keys are reviewees, each of which has an array of reviewers.
   per_author:
     shimo164:
-      - shimo164shimo
+      - shimo164
 files:
   # Keys are glob expressions.
   # You can assign groups defined above as well as GitHub usernames.
   '**':
-    - repository-owners # group
+    - shimo164
 
 options:
   ignore_draft: true
